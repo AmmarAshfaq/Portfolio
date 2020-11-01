@@ -6,7 +6,7 @@ export const data = {
     github: "https://github.com/AmmarAshfaq",
     website: "https://github.com/AmmarAshfaq",
     linkedin: "https://www.linkedin.com/in/muhammad-ammar-ashfaq-55a4a5b3/",
-    objective: "To become a best developer",
+    objective: "Talented Software Development experienced in producing and updating systems. Optimized structures and processes to accomplish customer targets and promote company loyalty. Expert in diverse programming languages, including Javascript,Solidity,React,React Native,NodeJS,Next JS and Ethereum..",
   },
   skills: ["BlockChain","React","React Native","Node JS","Gatsby","Next JS","Solidity"],
   positions: [
